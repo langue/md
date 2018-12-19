@@ -5,4 +5,4 @@ extra_css:
   - "//fonts.googleapis.com/css?family=Open+Sans:600,800"
   - "//langue.github.io/cle/css/custom.css"
 docs_dir: GPF-I
-site_dir: docs
+site_dir: docs/GPF-I
