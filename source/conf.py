@@ -34,10 +34,6 @@ def setup(app):
         app.add_stylesheet(css)
     
 
-source_parsers = {
-    '.md': CommonMarkParser,
-}
-
 # -- Project information -----------------------------------------------------
 
 project = 'cle'
@@ -78,6 +74,9 @@ templates_path = ['_templates']
 #
 source_suffix = ['.rst', '.md']
 #source_suffix = '.rst'
+source_parsers = {
+    '.md': CommonMarkParser,
+}
 
 # The master toctree document.
 master_doc = 'index'
