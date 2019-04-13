@@ -1,0 +1,8 @@
+site_name: 100_Expressions_Françaises_Indispensable
+theme: readthedocs
+extra_css:
+  - "//fonts.googleapis.com/earlyaccess/notosansjp.css"
+  - "//fonts.googleapis.com/css?family=Open+Sans:600,800"
+  - "//langue.github.io/cle/css/custom.css"
+docs_dir: 100_Expressions
+site_dir: docs/100_Expressions
