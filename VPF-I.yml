@@ -1,0 +1,8 @@
+site_name: CLE International Textes
+theme: readthedocs
+extra_css:
+  - "//fonts.googleapis.com/earlyaccess/notosansjp.css"
+  - "//fonts.googleapis.com/css?family=Open+Sans:600,800"
+  - "//langue.github.io/cle/css/custom.css"
+docs_dir: VPF-I
+site_dir: docs/VPF-I
